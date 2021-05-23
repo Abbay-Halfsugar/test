@@ -1,0 +1,23 @@
+{
+  "id": "2548558",
+  "name": "dsdsds",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2378414",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "5383806",
+      "name": "门禁",
+      "font_class": "huabanfuben",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
